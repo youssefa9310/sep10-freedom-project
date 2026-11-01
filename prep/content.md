@@ -13,7 +13,7 @@ Code.org.
 This is a website schools use to teach kids how to code their very first web pages because it is simple.
 It has a two screen layout where you type HTML or CSS on one side and see your live website on the other.
 It runs completely online in a browser.
-[Code.org]([https://code.org](https://code.org/en-US))
+(https://code.org/en-US))
 
 PickCode.
 
