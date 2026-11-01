@@ -16,8 +16,14 @@ It runs completely online in a browser.
 (https://code.org/en-US))
 
 PickCode.
+This is an online platform that makes it super easy to learn programming and web design through quick interactive lessons.
+It is really fun and simple to use, so you do not get confused while you are building things.
+You can work with multiple people on one project at the same time.
 
-
+Slack.
+This is a messaging app that teams use to talk to each other and share files quickly while working on websites.
+It splits conversations into different channels so you can stay organized and keep track of your team's design ideas.
+same as discord but mostly used for work.
 
 ##### Hardware
 * Tech
