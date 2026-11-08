@@ -26,44 +26,44 @@ It splits conversations into different channels so you can stay organized and ke
 same as discord but mostly used for work.
 
 ##### Hardware
-* **Apple MacBook Pro 14" Laptop**
-  * **Detail:** The industry-standard laptop for web designers due to its high processing speeds. It runs local development environments, multitasking design apps, and browser testing tools simultaneously.
+**Apple MacBook Pro**
+  * **Detail:** A fast laptop that web designers use to run heavy coding apps and design programs at the exact same time without lagging.
   * **Price:** ~$1,999.00
-  * **Where to Buy:** [Apple Official Store](https://apple.com)
-  * **Image:** ![MacBook Pro](https://unsplash.com)
+  * **Where to Buy:** Apple Store or Best Buy
+  * **Image:** ![laptop](https://unsplash.com)
 
-* **BenQ DesignVue PD3220U 32" 4K Monitor**
-  * **Detail:** A professional external display featuring accurate IPS color rendering. This ensures colors look exactly as intended when designing custom web UI components and graphic elements.
+* **BenQ 4K Monitor**
+  * **Detail:** A massive computer screen that connects to a laptop so you can see accurate colors and have more room to build layouts.
   * **Price:** ~$1,099.00
-  * **Where to Buy:** [B&H Photo Video](https://bhphotovideo.com)
-  * **Image:** ![4K Monitor](https://unsplash.com)
+  * **Where to Buy:** B&H Photo Video
+  * **Image:** ![monitor](https://unsplash.com)
 
-* **Logitech MX Master 3S Wireless Mouse**
-  * **Detail:** An ergonomic mouse featuring an ultra-fast side thumb-scroll wheel. This lets designers seamlessly navigate horizontally across wide design wireframes and lengthy code files.
+* **Logitech MX Mouse**
+  * **Detail:** A comfortable mouse with a thumb wheel on the side that lets you scroll sideways across wide website layouts super easily.
   * **Price:** ~$99.99
-  * **Where to Buy:** [Logitech Official Site](https://logitech.com)
-  * **Image:** ![MX Master Mouse](https://unsplash.com)
+  * **Where to Buy:** Amazon or Logitech website
+  * **Image:** ![mouse](https://unsplash.com)
 
-* **Logitech MX Keys S Keyboard**
-  * **Detail:** A premium tactile wireless keyboard optimized for comfortable, responsive typing during long hours of writing HTML, CSS, and JavaScript.
+* **Logitech MX Keyboard**
+  * **Detail:** A wireless keyboard that lights up and feels smooth when typing out thousands of lines of HTML and CSS code.
   * **Price:** ~$109.99
-  * **Where to Buy:** [Best Buy](https://bestbuy.com)
-  * **Image:** ![MX Keys Keyboard](https://unsplash.com)
+  * **Where to Buy:** Best Buy
+  * **Image:** ![keyboard](https://unsplash.com)
 
-* **Google Pixel Test Smartphone**
-  * **Detail:** A physical Android phone used by developers to natively test mobile layout views, responsive design breakpoint widths, touch targets, and mobile font behaviors.
+* **Google Pixel Phone**
+  * **Detail:** An actual smartphone used to test websites to make sure the text isn't too small and buttons work when you tap them.
   * **Price:** ~$799.00
-  * **Where to Buy:** [Google Store](https://google.com)
-  * **Image:** ![Test Phone](https://unsplash.com)
+  * **Where to Buy:** Google Store online
+  * **Image:** ![phone](https://unsplash.com)
 
-* **Front-End Developer / Engineer (Career)**
-  * **Detail:** A vital tech role responsible for taking creative visual layouts and programming them into live, functional interactive website elements using development hardware.
-  * **Salary:** Median ~$110,000/year
-  * **Where to Find:** [LinkedIn Jobs](https://linkedin.com)
-  * **Image:** ![Front-End Work](https://unsplash.com)
+* **Front-End Developer (Job)**
+  * **Detail:** A tech career where your main job is writing the actual code to turn website drawings into real, working web pages.
+  * **Salary:** ~$110,000 a year
+  * **Where to Find:** LinkedIn Jobs website
+  * **Image:** ![work](https://unsplash.com)
+
 
 
 ## Part B: possible future technology
-* **AI-Powered Holographic Spatial UI Design Engine**
-  * **Detail:** A futuristic spatial computing headset software and hardware ecosystem that lets web designers build 3D virtual websites using hand gestures in mid-air. It automatically converts spatial layouts into optimized code across all device viewports instantly, eliminating the need to manually code responsive styling variations.
-
+**Holographic VR Glasses**
+  * **Detail:** Future glasses that let you move website layouts around in mid air with your hands while an AI codes the website for you instantly.
