@@ -28,41 +28,39 @@ same as discord but mostly used for work.
 ##### Hardware
 **Apple MacBook Pro**
   * **Detail:** A fast laptop that web designers use to run heavy coding apps and design programs at the exact same time without lagging.
-  * **Price:** ~$1,999.00
+  * **Price:** $1,999.00
   * **Where to Buy:** Apple Store or Best Buy
-  * **Image:** ![laptop](https://unsplash.com)
+  * **Image:** laptop
 
 * **BenQ 4K Monitor**
   * **Detail:** A massive computer screen that connects to a laptop so you can see accurate colors and have more room to build layouts.
-  * **Price:** ~$1,099.00
+  * **Price:** $1,099.00
   * **Where to Buy:** B&H Photo Video
-  * **Image:** ![monitor](https)
+  * **Image:** monitor
 
 * **Logitech MX Mouse**
   * **Detail:** A comfortable mouse with a thumb wheel on the side that lets you scroll sideways across wide website layouts super easily.
-  * **Price:** ~$99.99
+  * **Price:** $99.99
   * **Where to Buy:** Amazon or Logitech website
-  * **Image:** ![mouse](https://unsplash.com)
+  * **Image:** mouse
 
 * **Logitech MX Keyboard**
   * **Detail:** A wireless keyboard that lights up and feels smooth when typing out thousands of lines of HTML and CSS code.
-  * **Price:** ~$109.99
+  * **Price:** $109.99
   * **Where to Buy:** Best Buy
-  * **Image:** ![keyboard](https://unsplash.com)
+  * **Image:** keyboard
 
 * **Google Pixel Phone**
   * **Detail:** An actual smartphone used to test websites to make sure the text isn't too small and buttons work when you tap them.
-  * **Price:** ~$799.00
+  * **Price:** $799.00
   * **Where to Buy:** Google Store online
-  * **Image:** ![phone](https://unsplash.com)
+  * **Image:** phone
 
 * **Front-End Developer (Job)**
   * **Detail:** A tech career where your main job is writing the actual code to turn website drawings into real, working web pages.
-  * **Salary:** ~$110,000 a year
+  * **Salary:** $110,000 a year
   * **Where to Find:** LinkedIn Jobs website
-  * **Image:** ![work](https://unsplash.com)
-
-
+  * **Image:** work
 
 ## Part B: possible future technology
 **Holographic VR Glasses**
