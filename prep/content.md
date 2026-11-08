@@ -36,7 +36,7 @@ same as discord but mostly used for work.
   * **Detail:** A massive computer screen that connects to a laptop so you can see accurate colors and have more room to build layouts.
   * **Price:** ~$1,099.00
   * **Where to Buy:** B&H Photo Video
-  * **Image:** ![monitor](https://unsplash.com)
+  * **Image:** ![monitor](https)
 
 * **Logitech MX Mouse**
   * **Detail:** A comfortable mouse with a thumb wheel on the side that lets you scroll sideways across wide website layouts super easily.
