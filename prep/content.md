@@ -51,16 +51,17 @@ same as discord but mostly used for work.
   * **Image:** keyboard
 
 * **Google Pixel Phone**
-  * **Detail:** An actual smartphone used to test websites to make sure the text isn't too small and buttons work when you tap them.
+  * **Detail:**smartphone used to test websites to make sure the text isn't too small and buttons work when you tap them.
   * **Price:** $799.00
   * **Where to Buy:** Google Store online
   * **Image:** phone
 
 * **Front-End Developer (Job)**
-  * **Detail:** A tech career where your main job is writing the actual code to turn website drawings into real, working web pages.
+  * **Detail:** A tech career where your main job is writing the actual code to turn website drawings into real working web pages.
   * **Salary:** $110,000 a year
   * **Where to Find:** LinkedIn Jobs website
   * **Image:** work
+    <h1>That is all what we need.</h1>
 
 ## Part B: possible future technology
 **Holographic VR Glasses**
