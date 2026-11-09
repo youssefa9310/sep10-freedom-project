@@ -64,5 +64,5 @@ same as discord but mostly used for work.
     <h1>That is all what we need.</h1>
 
 ## Part B: possible future technology
-**Holographic VR Glasses**
+** VR Glasses**
   * **Detail:** Future glasses that let you move website layouts around in mid air with your hands while an AI codes the website for you instantly.
