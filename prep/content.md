@@ -38,23 +38,23 @@ same as discord but mostly used for work.
   * **Where to Buy:** B&H Photo Video
   * **Image:** monitor
 
-* **Logitech MX Mouse**
-  * **Detail:** A comfortable mouse with a thumb wheel on the side that lets you scroll sideways across wide website layouts super easily.
-  * **Price:** $99.99
-  * **Where to Buy:** Amazon or Logitech website
-  * **Image:** mouse
+* **Google Pixel Phone**
+  * **Detail:**smartphone used to test websites to make sure the text isn't too small and buttons work when you tap them.
+  * **Price:** $799.00
+  * **Where to Buy:** Google Store online
+  * **Image:** phone
 
 * **Logitech MX Keyboard**
   * **Detail:** A wireless keyboard that lights up and feels smooth when typing out thousands of lines of HTML and CSS code.
   * **Price:** $109.99
   * **Where to Buy:** Best Buy
   * **Image:** keyboard
-
-* **Google Pixel Phone**
-  * **Detail:**smartphone used to test websites to make sure the text isn't too small and buttons work when you tap them.
-  * **Price:** $799.00
-  * **Where to Buy:** Google Store online
-  * **Image:** phone
+  * 
+* **Logitech MX Mouse**
+  * **Detail:** A comfortable mouse with a thumb wheel on the side that lets you scroll sideways across wide website layouts super easily.
+  * **Price:** $99.99
+  * **Where to Buy:** Amazon or Logitech website
+  * **Image:** mouse
 
 * **Front-End Developer (Job)**
   * **Detail:** A tech career where your main job is writing the actual code to turn website drawings into real working web pages.
